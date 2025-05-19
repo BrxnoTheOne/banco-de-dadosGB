@@ -10,4 +10,12 @@ As consultas também têm sido registradas em planilhas, com data e hora de real
 
 Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramento da consulta, ele possa registrar os medicamentos receitados, a quantidade e as instruções de uso
 
-<img src="Diagrama ER.png">
+# Banco de dados básico para funcionamento um Hospital
+
+<!-- Para exibir a imagem no README, utilize a sintaxe Markdown padrão para imagens: -->
+
+```markdown
+![Diagrama ER](Diagrama%20ER.png)
+```
+
+Isso exibirá a imagem chamada "Diagrama ER.png" no local desejado do arquivo README.md. Certifique-se de que o arquivo da imagem esteja no mesmo diretório do README.md.
