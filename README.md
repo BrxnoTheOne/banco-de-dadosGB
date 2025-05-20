@@ -19,3 +19,5 @@ Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramen
 ```
 
 Isso exibirá a imagem chamada "Diagrama ER.png" no local desejado do arquivo README.md. Certifique-se de que o arquivo da imagem esteja no mesmo diretório do README.md.
+
+# parte 2 -  notou-se a necessidade de expansão das funcionalidades, incluindo alguns requisitos essenciais a essa versão do software.
