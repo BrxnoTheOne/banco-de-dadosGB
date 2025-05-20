@@ -15,7 +15,7 @@ Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramen
 <!-- Para exibir a imagem no README, utilize a sintaxe Markdown padrão para imagens: -->
 
 ```markdown
-![Diagrama ER](Diagrama%20ER.png)
+![Diagrama ER](Diagrama%ER.png)
 ```
 
 Isso exibirá a imagem chamada "Diagrama ER.png" no local desejado do arquivo README.md. Certifique-se de que o arquivo da imagem esteja no mesmo diretório do README.md.
