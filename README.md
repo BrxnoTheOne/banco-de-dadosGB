@@ -12,10 +12,4 @@ Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramen
 
 # Banco de dados básico para funcionamento um Hospital
 
-<!-- Para exibir a imagem no README, utilize a sintaxe Markdown padrão para imagens: -->
-
-```markdown
-![Diagrama ER](Diagrama%ER.png)
-```
-
-Isso exibirá a imagem chamada "Diagrama ER.png" no local desejado do arquivo README.md. Certifique-se de que o arquivo da imagem esteja no mesmo diretório do README.md.
+![Image](https://github.com/user-attachments/assets/545cfa92-8eb5-4658-b91e-486a10e83d49)
