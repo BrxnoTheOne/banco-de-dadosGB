@@ -24,3 +24,5 @@ As funcionalidades em questão são para o controle na internação de pacientes
 
 
 # PARTE 3  (Alterando o banco de dados)
+
+![Image](https://github.com/user-attachments/assets/d40d514f-372c-4370-a3ee-46fede140b3e)
