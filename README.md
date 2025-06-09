@@ -21,3 +21,6 @@ notou-se a necessidade de expansão das funcionalidades, incluindo alguns requis
 As funcionalidades em questão são para o controle na internação de pacientes.
 
 ![Image](https://github.com/user-attachments/assets/391dcd5c-bd96-4773-b9f7-231068730dc5)
+
+
+# PARTE 3  (Alterando o banco de dados)
